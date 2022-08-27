@@ -1,0 +1,1 @@
+workerBot: npm run start

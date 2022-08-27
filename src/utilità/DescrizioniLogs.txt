@@ -1,0 +1,23 @@
+Nickname:
+Canale dello Staff adibito al registro delle variazioni dei nickname sul server di Dyno (creazione, rimozione e modifica).
+
+Members:
+Canale dello Staff adibito al registro delle entrate/uscite del server di Dyno.
+
+Channels:
+Canale dello Staff adibito al registro delle variazioni dei canali del server di Dyno (creazione, rimozione e modifica).
+
+Messages:
+Canale dello Staff adibito al registro delle variazioni dei messaggi all'interno del server di Dyno (cancellazione e modifica).
+
+Mods:
+Canale dello Staff adibito al registro degli eventi Staff del server di Dyno (ban, unban, comandi mod, inviti).
+
+Roles:
+Canale dello Staff adibito al registro delle variazioni dei ruoli del server di Dyno (creazione, rimozione e modifica degli stessi e agli utenti).
+
+Server:
+Canale dello Staff adibito ai messaggi di sistema di Discord del server.
+
+Vocals:
+Canale dello Staff adibito al registro delle movimenti nei canali vocali all'interno del server di Dyno (entrate, uscite e spostamenti).

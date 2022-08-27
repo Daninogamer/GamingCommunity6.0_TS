@@ -1,0 +1,56 @@
+{
+    "bot" : {
+        "token" : "OTkwOTMwMzk0NDQ0NjAzNDIy.Gk8Yoi.PlX6E4JrWUjfUM4O0gSnI2ces2A5DDZBQjEl38",
+        "clientId" : "990930394444603422",
+        "guildId" : "777851672193662976"
+    },
+    "channels": {
+        "memberCount" : "888683364192768020",
+        "welcome" : "860856428722257941",
+        "rules" : "860795447844405268",
+        "roles" : "860795633635819520",
+        "candidature" : "860799046934724628",
+        "spostami" : "916395933170823198",
+        "privateCreate" : "917412609295274044",
+        "animeCreate" : "1010258284130865255",
+        "modsLogs" : "860813377252229130",
+        "serverLogs" : "888702566651822120"
+    },
+    "categorie" : {
+        "animeCreate" : "1010257470066802738",
+        "privateCreate" : "895051876997922856"
+    },
+    "roles" : {
+        "staff" : "860765799413186571",
+        "membro" : "779022388364836864",
+        "keysBannerRole" : "895052862726504528"
+    },
+    "perms" : {
+        "keys" : {
+            "VIEW_CHANNEL" : true,
+            "MANAGE_CHANNELS" : false,
+            "MANAGE_ROLES" : false,
+            "CREATE_INSTANT_INVITE" : false,	
+            "CONNECT" : true,
+            "SPEAK" : true,
+            "STREAM" : true,
+            "USE_VAD" : true,
+            "PRIORITY_SPEAKER" : false,
+            "MUTE_MEMBERS" : false,
+            "DEAFEN_MEMBERS" : false,
+            "MOVE_MEMBERS" : true,
+            "SEND_MESSAGES" : true,
+            "EMBED_LINKS" : true,
+            "ATTACH_FILES" : true,
+            "ADD_REACTIONS" : true,
+            "USE_EXTERNAL_EMOJIS" : true,
+            "USE_EXTERNAL_STICKERS" : true,
+            "MENTION_EVERYONE" : false,
+            "MANAGE_MESSAGES" : false,
+            "READ_MESSAGE_HISTORY" : true,
+            "SEND_TTS_MESSAGES" : false,
+            "USE_APPLICATION_COMMANDS" : true,
+            "MANAGE_EVENTS" : false
+        }
+    }
+}
