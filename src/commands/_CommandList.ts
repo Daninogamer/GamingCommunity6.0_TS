@@ -19,6 +19,20 @@ import { s_manage } from "./staff/s_manage";
 
 
 // Esporto tutta la lista dei miei comandi
-export const CommandList: Command[] = [dev_agg, dev_spam, s_ban, s_clear, s_kick, s_list, s_mute, s_unban, v_sposta, v_keylist, v_remkey, v_setkey, s_manage];
+export const CommandList: Command[] = [
+    dev_agg, 
+    dev_spam,
+    s_ban,
+    s_clear, 
+    s_kick, 
+    s_list,
+    s_mute, 
+    s_unban, 
+    v_sposta, 
+    v_keylist, 
+    v_remkey, 
+    v_setkey, 
+    s_manage
+    ];
 
 // console.log(CommandList) Se vuoi lascialo, io te lo ho tolto così non ti da fastidio

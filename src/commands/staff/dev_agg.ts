@@ -17,7 +17,7 @@ export const dev_agg: Command = {
 		// !!! Super importante altrimenti il bot ti da errori come "Undefined" o "Null" !!!
 		run: async (interaction: any) => {
 
-		const Canale = interaction.guild.channels.cache.get(channels.memberCount, true);
+		const Canale = interaction.guild.channels.cache.get(channels.memberCount);
 
 		interaction.reply({ content : 'Canale correttamente aggiornato!', ephemeral : true });
 
